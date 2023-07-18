@@ -1,0 +1,27 @@
+.country-img {
+  width: 280px;
+  height: 180px;
+  margin-bottom: 0px;
+}
+
+.country-name-remove-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 280px;
+  height: 50px;
+  background-color: #1f1f2f;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.remove-btn {
+  width: 70px;
+  height: 30px;
+  margin-right: 12px;
+}
+
+.county-list-item {
+  margin-right: 20px;
+}
